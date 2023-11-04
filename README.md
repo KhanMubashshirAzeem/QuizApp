@@ -1,4 +1,5 @@
 # QuizApp
+This Application is very basic and simple.
 
 ![image](https://github.com/KhanMubashshirAzeem/QuizApp/assets/123080070/1a903991-b494-422f-b099-9928e608b8f6)
 ![image](https://github.com/KhanMubashshirAzeem/QuizApp/assets/123080070/16df8f63-2e83-489b-90f0-0876824519d4)# Images
